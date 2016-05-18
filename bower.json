@@ -1,0 +1,21 @@
+{
+  "name": "john-bs-plugin",
+  "authors": [
+    "John Jiang jiangguangtao@foxmail.com"
+  ],
+  "description": "Bootstrap theme and script plugins",
+  "main": "",
+  "keywords": [
+    "bootstrap",
+    "plugin"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,10 @@
+.settings/
+target/
+.idea/
+*.classpath
+*.project
+*.iml
+*.class
+resources/libs/
+node_modules/
+bower_components/
